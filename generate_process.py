@@ -85,4 +85,4 @@ if __name__ == "__main__":
 
             with open(DONE_FILE, "a") as f:
                 f.write(folder + "\n")
-        time.sleep(10)
+        time.sleep(15)
